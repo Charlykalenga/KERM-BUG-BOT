@@ -11,15 +11,15 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "237656520674"
-global.ownername = "KgTech👽"
+global.ownernomer = "243985585339"
+global.ownername = "bigcharly"
 global.ytname = "YT: Kermhacktools"
 global.socialm = "GitHub: Kgtech-cmt"
 global.location = "India, UP, rampur"
 
-global.ownernumber = '237656520674'  //creator number
-global.ownername = 'KgTech👽' //owner name
-global.botname = 'KERM-BUG-BOT' //name of the bot
+global.ownernumber = '243985585339'  //creator number
+global.ownername = 'bigcharly' //owner name
+global.botname = 'BIGCHARLY' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
@@ -42,7 +42,7 @@ global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
-global.autoswview = true //auto view status/story
+global.autoswview =false //auto view status/story
 
 //menu type 
 //v1 is image menu, 
